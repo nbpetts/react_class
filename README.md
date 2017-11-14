@@ -6,3 +6,6 @@ run npm install
 ## To run 
 
 run npm start
+
+homepage at:
+http://localhost:8080
